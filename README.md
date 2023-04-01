@@ -1,4 +1,5 @@
-# Camera-calibration-Pose-estimation-using-Aruco-markers
+Camera calibration & Pose estimation using Aruco
+
 markers![](Aspose.Words.48544de6-9e9b-4905-9655-5852cef83207.001.png)
 
 1  Detection of ArUco Markers
