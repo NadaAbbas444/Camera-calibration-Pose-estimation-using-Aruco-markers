@@ -18,7 +18,8 @@ After enough frames have been captured, the program saved the output camera matr
 
 Camera Matrix: !!opencv-matrix
 
-data: [ 1.3973080720333924e+03, 0., 4.5175126951013118e+02, 0., 1.5999894836750768e+03, 4.3435188510512131e+02, 0., 0., 1. ] Distortion Coefficients: !!opencv-matrix
+data: [ 1.3973080720333924e+03, 0., 4.5175126951013118e+02, 0., 1.5999894836750768e+03, 4.3435188510512131e+02, 0., 0., 1. ] Distortion Coefficients: data: [ -1.4782048972162964e-01, 1.4358620704850680e+00, -2.4863535541773167e-02, -3.2584149497813197e-01, 1.6050225082123124e+01 ]
+!!opencv-matrix
 
 ![](Aspose.Words.48544de6-9e9b-4905-9655-5852cef83207.003.jpeg) ![](Aspose.Words.48544de6-9e9b-4905-9655-5852cef83207.004.jpeg)
 
@@ -30,7 +31,6 @@ data: [ 1.3973080720333924e+03, 0., 4.5175126951013118e+02, 0., 1.59998948367507
 
 Figure 2: Examples of ArUco board images taken for calibrating the camera
 
-data: [ -1.4782048972162964e-01, 1.4358620704850680e+00, -2.4863535541773167e-02, -3.2584149497813197e-01, 1.6050225082123124e+01 ]
 
 3  Augmented reality
 1. Program implementation: pose estimation
